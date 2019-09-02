@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "268141790651",
+    "firebase_url": "https://beatbud1.firebaseio.com",
+    "project_id": "beatbud1",
+    "storage_bucket": "beatbud1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268141790651:android:d26df3e8ec3d91c7",
+        "android_client_info": {
+          "package_name": "com.example.beatbud_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268141790651-muh9j84bghao2m1r8p39g4700jvv1b0f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.beatbud_1",
+            "certificate_hash": "ef857e1f1135b4e0e5a3a27b221e07d5111efc48"
+          }
+        },
+        {
+          "client_id": "268141790651-8p7kq13c3es3lk44gh81r1252ddueapu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg3TjWyPzdDRGHB9O8aGREgeDxAwm-Br8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268141790651-8p7kq13c3es3lk44gh81r1252ddueapu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
